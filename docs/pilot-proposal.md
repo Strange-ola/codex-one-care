@@ -1,15 +1,8 @@
-Perfect — let’s create a **strong, professional pilot proposal** for CODEX One Care.
-We’ll keep it **3 pages equivalent**, clear, concise, and ready to share with hospitals or partners. You said **3 million Naira budget, no hardware**, so we’ll focus on **software, training, operations, and staff support**.
-
-Here’s a polished draft you can paste into GitHub (`docs/pilot-proposal.md`) or use as a PDF/Word:
-
----
-
 # CODEX One Care – Pilot Proposal
 
 **Project:** CODEX One Care – Patient-Centred Healthcare Coordination & Operations System
 **Prepared by:** Blessing Osahenruwen Enagbare
-**Date:** January 2026
+**Date:** December 2025
 
 ---
 
@@ -122,9 +115,3 @@ Healthcare facilities in Nigeria and similar resource-constrained settings face 
 This pilot represents a **strategic opportunity for healthcare facilities** to improve care delivery while gaining operational and financial visibility. With a **₦3,000,000 investment**, CODEX One Care can demonstrate measurable impact in 1–2 facilities, laying the foundation for a scalable model across Kaduna and beyond.
 
 We invite **hospital management and potential partners** to join this pilot, co-create the workflow, and showcase a modern, patient-centred approach to healthcare delivery.
-
----
-
-If you want, I can **also create a GitHub-ready version** with **all links, file paths, and proper Markdown formatting** so you can just add it under `docs/pilot-proposal.md` and it fits **perfectly with your repo structure**.
-
-Do you want me to do that next?
