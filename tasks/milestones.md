@@ -4,7 +4,6 @@
 - Repo structure completed
 - Vision & care model finalized
 - Revenue model outlined
-- roll out
 
 ## Phase 2 – Pilot Prep (Month 3)
 - Identify 1–2 pilot hospitals
